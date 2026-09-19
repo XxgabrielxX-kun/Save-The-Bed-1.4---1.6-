@@ -5,6 +5,7 @@ Cansado de ver os teus colonos a perderem a atribuição das suas camas sempre q
 No jogo base (Vanilla), quando um colono muda de mapa ou entra numa caravana, o RimWorld retira automaticamente a propriedade da cama. Com este mod, a cama continua reservada para o seu dono até que ele volte.
 
 ✨ Funcionalidades:
+
 Preserva a Propriedade: Os colonos mantêm a sua cama atribuída enquanto estiverem fora da colónia.
 
 Remoção por Morte: Se o colono morrer, a cama é libertada automaticamente.

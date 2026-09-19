@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Save The Bed</name>
+  <author>XxgabrielxX_kun</author>
+  <packageId>seuNome.savethebed</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009416485</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <description>
+Prevents pawns from losing their assigned beds when they leave the base (e.g., in caravans). Beds will only be unassigned if the pawn dies or the bed is destroyed.
+  </description>
+</ModMetaData>
